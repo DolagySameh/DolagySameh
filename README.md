@@ -21,7 +21,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/DolagySameh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:dolagysameh20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://wa.me/201203901023"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
   <a href="https://github.com/DolagySameh"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
