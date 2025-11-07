@@ -6,18 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="#">🧾 My CV</a> • 
-  <a href="#">🌐 My Portfolio</a>
+  <a href="">🧾 My CV</a> • 
+  <a href="https://dolagysameh.github.io/My_Portfolio/">🌐 My Portfolio</a> • 
 </p>
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://wa.me/yourwhatsappnumber"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://linkedin.com/in/DolagySameh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:Dolagysameh20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://wa.me/01203901023"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
 </p>
 
 ---
