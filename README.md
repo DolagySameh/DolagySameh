@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://drive.google.com/your-cv-link](https://drive.google.com/file/d/1Vqau7HeAJZkrebKl2a3dxvMxdpZxy_el/view?usp=drivesdk)" target="_blank">
+  <a href="https://drive.google.com/file/d/1Vqau7HeAJZkrebKl2a3dxvMxdpZxy_el/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-2ea44f?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
   <a href="https://dolagysameh.github.io/My_Portfolio/" target="_blank">
@@ -27,10 +27,50 @@
 
 ---
 
-### 💻 Top Technical Skills & Tools
+### 💻 Technical Skills
+
+#### 🧠 Programming Languages
+C#, C, Java, F#, Python, HTML, CSS, HTML5, JavaScript  
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,postman,docker,sqlserver,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,c,java,python,html,css,js" />
 </p>
+
+#### 🗄️ Database Management
+SQL Server  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
+</p>
+
+#### ⚙️ Core Competencies
+OOP, Data Structures, Algorithms, Design Patterns, SOLID Principles
+
+#### 🧩 Frameworks
+ASP.NET Core (MVC & API)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+#### 🧰 Version Control & Tools
+Postman, Git, GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,git,github" />
+</p>
+
+#### 🧮 Data Access Technologies
+LINQ, Entity Framework
+
+#### 🧩 Additional Skills
+Problem-Solving, System Optimization, Operating Systems
+
+#### 🚀 Software Development Practices
+RESTful APIs, Unit Testing, Debugging, Agile/Scrum
+
+#### 🧠 Technical Expertise
+Software Architecture, Clean Code, Performance Tuning, Code Review
 
 ---
 
